@@ -1,0 +1,75 @@
+# Descripción del proyecto
+
+Este proyecto reconstruye el desarrollo legislativo de la Constitución Política
+de los Estados Unidos Mexicanos (CPEUM) desde su versión original de 1917 hasta
+el día de hoy.
+
+Las leyes, en última instancia, son textos; textos organizados, vigilados y
+legislados por aquellos individuos que se rigen colectivamente bajo éstas.
+
+El software también es texto en última instancia. Es texto que se convierte en
+código binario para ser ejecutado por una computadora. Los programadores de un
+software particular escriben, organizan y modifican el texto que luego resultará
+en una aplicación en ejecución.
+
+En la historia del desarrollo de software se han desarrollado herramientas que
+facilitan a los desarrolladores el control del ciclo de vida del software, es
+decir, el fino control de los cambios realizados, su autoría, su descripción y
+sus motivos. Una de estas herramientas, y la más usada hasta ahora, es [Git].
+
+Git controla la evolución de textos en el tiempo. Y así como se puede usar para
+facilitar el desarrollo de software, también se puede utilizar para llevar el
+desarrollo legislativo de las leyes.
+
+Este sitio es un esfuerzo por reconstruir el desarrollo legislativo de la
+Constitución Política de los Estados Unidos Mexicanos, donde cada decreto
+constitucional se refleja como un *commit* en el repositorio.
+
+[Git]: https://es.wikipedia.org/wiki/Git
+
+## Formato y estructura
+
+La Constitución está almacenada en formato [reStructured Text], o simplemente
+reST, un formato de texto plano que no requiere de ningún software particular
+para visualizarlo o editarlo. Esto permite comparar cualquier modificación línea
+a línea, entre la versión anterior y la actual, facilitando la comprensión del
+cambio.
+
+La fuente de información es la [página de la Cámara de Diputados] que registra
+los decretos y cambios constitucionales desde 1917.
+
+[reStructured Text]: https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
+[página de la Cámara de Diputados]: https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum_crono.htm
+
+## Metodología
+
+La Constitución original está en [PDF
+digitalizado](http://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_orig_05feb1917.pdf).
+Se hizo el archivo `cpeum.rst` de manera manual y con un *script* convirtió el
+PDF en texto plano y se separaron los artículos en archivos.
+
+Los decretos posteriores, desde 1921 hasta 1993, sólo están disponibles como
+imágenes escaneadas, muchas veces con muy mala calidad, haciendo la tarea
+susceptible a errores de transcripción. A partir del decreto número 124, de
+1993, los decretos están disponibles en formato tanto PDF como MS-Word™, lo que
+me permitió automatizar la tarea de manera más fidedigna.
+
+## Trabajo futuro
+
+Este trabajo abre las puertas a muchas otras posibles tareas. Por citar algunas:
+
+* Que las iniciativas constitucionales se lleven como *pull request*, así sería
+  más público el debate legislativo.
+* Participar en debates públicos sobre cada cambio en la Constitución, a través
+  de los mecanismo de *revisión de código* de GitHub.
+
+## Créditos y contacto
+
+- Mantenimiento: Víctor M. Jáquez L.
+- Sitio: <https://cpeum.mx>
+- Bluesky: [@cpeum.mx]
+
+El código fuente de este sitio es abierto y está disponible en [GitHub].
+
+[GitHub]: https://github.com/ceyusa/cpeum
+[@cpeum.mx]: https://bsky.app/profile/cpeum.mx
