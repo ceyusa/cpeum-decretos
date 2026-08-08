@@ -1,0 +1,23 @@
+[project]
+name = "cpeum-decretos"
+version = "0.1.0"
+description = "Constitución Política de los Estados Unidos Mexicanos"
+readme = "README.md"
+authors = [
+    { name = "Víctor Manuel Jáquez Leal", email = "victor@ceyusa.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "docutils",
+    "beautifulsoup4",
+    "lxml",
+    "pymupdf",
+]
+
+[dependency-groups]
+dev = [
+    "pylint",
+    "pyspelling",
+    "rstcheck",
+    "ruff",
+]
