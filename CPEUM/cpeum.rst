@@ -428,8 +428,8 @@ Nuevo León: Manuel Amaya, Nicéforo Zambrano, Luis Ilizaliturri, Crnl.
 Ramón Gámez, Reynaldo Garza, Plutarco González, Lorenzo Sepúlveda
 (Suplente). —Diputados por el Edo de Oaxaca: Juan Sánchez, Leopoldo
 Payán, Lic. Manuel Herrera, Lic. Porfirio Sosa, Lic. Celestino Pérez Jr.
-Crisóforo Rivera Cabrera, Crnl. José F. Gámez, Mayor Luis Espinosa.
-—Diputados por el Edo. de Puebla: Dr. Salvador R. Guzmán, Lic. Rafael B.
+Crisóforo Rivera Cabrera, Crnl. José F. Gómez, Mayor Luis Espinosa.
+—Diputados por el Edo. de Puebla: Dr. Salvador R. Guzmán, Lic. Rafael P.
 Cañete, Miguel Rosales, Gabriel Rojana, Lic. David Pastrana Jaimes,
 Froylán C. Manjarrez, Tte. Crnl. Antonio de la Barrera, Mayor José
 Rivera, Crnl. Epigmenio A. Martínez, Pastor Rouaix, Crnl. de Ings. Luis
