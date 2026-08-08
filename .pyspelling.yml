@@ -1,0 +1,26 @@
+jobs: 0
+default_encoding: utf-8
+
+matrix:
+  - name: ortografia
+    sources:
+      - CPEUM/*.rst
+    aspell:
+      lang: es
+      mode: markdown
+      ignore-case: true
+      ignore: 3
+      d: es
+    dictionary:
+      wordlists:
+      - es-local.txt
+      output: es-local.dic
+    default_encoding: utf-8
+    pipeline:
+      - pyspelling.filters.context:
+          context_visible_first: true
+          escapes: '\\[\\`~]'
+          delimiters:
+          # Ignore explicit directives
+          - open: '^\.\. .+::.*'
+            close: '$'

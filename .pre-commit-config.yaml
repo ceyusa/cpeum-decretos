@@ -1,0 +1,48 @@
+repos:
+  - repo: https://github.com/astral-sh/uv-pre-commit
+    # uv version.
+    rev: 0.12.3
+    hooks:
+      - id: uv-lock
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-yaml
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.2
+    hooks:
+      - id: ruff-check
+      - id: ruff-format
+  - repo: https://github.com/pycqa/pylint
+    rev: v4.0.7
+    hooks:
+      - id: pylint
+        entry: .venv/bin/pylint
+  - repo: https://github.com/facelessuser/pyspelling
+    rev: '2.12.1'
+    hooks:
+      - id: pyspelling
+        verbose: true
+        args: ['-n', 'ortografia']
+        entry: .venv/bin/pyspelling
+  - repo: https://github.com/rstcheck/rstcheck
+    rev: 'v6.3.0'
+    hooks:
+      - id: rstcheck
+        entry: .venv/bin/rstcheck
+  - repo: local
+    hooks:
+      - id: diccionario
+        name: corregir diccionario
+        entry: scripts/corregir_diccionario.py
+        language: python
+        files: ^(es-local.txt|CPEUM*.rst)$
+        pass_filenames: false
+      - id: reajustar-rst
+        name: reajustar líneas de rst
+        description: Reajusta a 72 caracteres los archivos reST.
+        entry: scripts/reajustar_rst.py --ancho 72
+        language: python
+        types: [rst]
