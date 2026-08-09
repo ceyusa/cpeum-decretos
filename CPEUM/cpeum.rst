@@ -375,6 +375,14 @@ Artículos transitorios
 
 .. include:: T000.rst
 
+Artículos transitorios de decretos de reforma (5)
+-------------------------------------------------
+
+LEY que reforma los artículo 73, 74, 76, 79, 89, 94, 96, 97, 98, 99,
+100, y 111 de la Constitución Política de la República.
+
+.. include:: T005.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
