@@ -1,4 +1,4 @@
-personal_ws-1.1 es 78 utf-8
+personal_ws-1.1 es 77 utf-8
 administrdativa
 aguascalientes
 aprehenderse
@@ -37,7 +37,6 @@ interpósita
 jalisco
 michoacán
 morelos
-municipalidades
 nayarit
 oaxaca
 patrióticamente
