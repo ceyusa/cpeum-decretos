@@ -383,6 +383,14 @@ LEY que reforma los artículo 73, 74, 76, 79, 89, 94, 96, 97, 98, 99,
 
 .. include:: T005.rst
 
+Artículos transitorios de decretos de reforma (6)
+-------------------------------------------------
+
+LEY que reforma el artículo 52 y el párrafo cuarto de la fracción III
+del artículo 115 de la Constitución Federal.
+
+.. include:: T006.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
