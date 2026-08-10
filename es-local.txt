@@ -1,4 +1,4 @@
-personal_ws-1.1 es 86 utf-8
+personal_ws-1.1 es 87 utf-8
 administrdativa
 aduanal
 aduanales
@@ -65,6 +65,7 @@ substituídos
 tamaulipas
 tepic
 tlaxcala
+tramitarse
 tramitándose
 unico
 vedarse
