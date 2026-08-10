@@ -447,6 +447,15 @@ constitucionales.
 
 .. include:: T020.rst
 
+Artículos transitorios de decretos de reforma (21)
+--------------------------------------------------
+
+DECRETO que reforma el último párrafo de la base 4ª de la fracción VI
+del artículo 73, el artículo 94 y las fracciones II y III del 95 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T021.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
