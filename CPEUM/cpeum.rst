@@ -399,6 +399,15 @@ LEY que reforma las bases 1a., 2a. y 3a. de la fracción VI del artículo
 
 .. include:: T007.rst
 
+Artículos transitorios de decretos de reforma (8)
+-------------------------------------------------
+
+DECRETO que reforma la fracción X del artículo 73 de la Constitución
+General de la República, facultando al Congreso para expedir las leyes
+del trabajo reglamentarias del artículo 123 de la propia Constitución.
+
+.. include:: T008.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
