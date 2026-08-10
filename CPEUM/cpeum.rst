@@ -464,6 +464,13 @@ Estados Unidos Mexicanos.
 
 .. include:: T022.rst
 
+Artículos transitorios de decretos de reforma (23)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 43 y 45 constitucionales.
+
+.. include:: T023.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
