@@ -1,4 +1,4 @@
-personal_ws-1.1 es 90 utf-8
+personal_ws-1.1 es 96 utf-8
 administrdativa
 aduanal
 aduanales
@@ -18,18 +18,21 @@ concediéndosele
 concedérseles
 concejiles
 concesionados
+concluído
 constitucion
 constituída
 constituído
 constituídos
 construído
 consuetudinaria
+contrafianza
 costeable
 curales
 decretarse
 deerminará
 delictuoso
 despedírsele
+disminuída
 disposicioies
 dotatorias
 durango
@@ -44,6 +47,7 @@ incluídas
 inspeccionarse
 interpósita
 jalisco
+jurisdisdicción
 michoacán
 morelos
 municipalidades
@@ -64,7 +68,9 @@ revocarse
 secuestrarse
 sentenciarse
 sinaloa
+sobreserá
 substituídos
+suplirse
 tamaulipas
 tepic
 tlaxcala
