@@ -1,10 +1,11 @@
-personal_ws-1.1 es 87 utf-8
+personal_ws-1.1 es 91 utf-8
 administrdativa
 aguascalientes
 aprehenderse
 auxiliándosele
 averigue
 belice
+cancum
 caracter
 cateos
 catoche
@@ -24,7 +25,9 @@ constituídos
 constituírlos
 construído
 consuetudinaria
+contoy
 costeable
+cozumel
 curales
 decretarse
 deerminará
@@ -38,6 +41,7 @@ greenwich
 guadalupe
 guanajuato
 guatemala
+holbox
 impues
 incluída
 inspeccionarse

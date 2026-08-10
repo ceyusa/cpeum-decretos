@@ -432,6 +432,13 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T018.rst
 
+Artículos transitorios de decretos de reforma (19)
+--------------------------------------------------
+
+DECRETO que adiciona el artículo 45 constitucional.
+
+.. include:: T019.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
