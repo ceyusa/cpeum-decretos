@@ -553,6 +553,15 @@ los Estados Unidos Mexicanos.
 
 .. include:: T052.rst
 
+Artículos transitorios de decretos de reforma (54)
+--------------------------------------------------
+
+DECRETO que reforma los párrafos cuarto, quinto, sexto y séptimo,
+fracción I del artículo 27 y los artículos 42 y 48 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T054.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
