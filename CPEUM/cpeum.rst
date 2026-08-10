@@ -439,6 +439,14 @@ DECRETO que adiciona el artículo 45 constitucional.
 
 .. include:: T019.rst
 
+Artículos transitorios de decretos de reforma (20)
+--------------------------------------------------
+
+DECRETO que reforma el artículo 3º y la fracción XXV del 73
+constitucionales.
+
+.. include:: T020.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
