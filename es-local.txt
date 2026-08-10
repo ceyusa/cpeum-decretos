@@ -1,8 +1,7 @@
-personal_ws-1.1 es 81 utf-8
+personal_ws-1.1 es 88 utf-8
 administrdativa
 aguascalientes
 aprehenderse
-asignársele
 auxiliándosele
 averigue
 belice
@@ -14,12 +13,16 @@ chiapas
 coahuila
 coaligarse
 colegisladora
+comisariados
 concediéndosele
+concedérseles
 concejiles
-condueñazgos
 constitucion
 constituída
 constituído
+constituídos
+constituírlos
+construído
 consuetudinaria
 costeable
 curales
@@ -28,7 +31,9 @@ deerminará
 delictuoso
 despedírsele
 disposicioies
+dotatorias
 durango
+ejidales
 greenwich
 guadalupe
 guanajuato
@@ -42,6 +47,7 @@ jalisco
 michoacán
 morelos
 nayarit
+nulificada
 oaxaca
 patrióticamente
 politica
@@ -50,13 +56,14 @@ prseidente
 querétaro
 rancherías
 recaudarse
+restituído
+restituídos
 revillagigedo
 revocarse
 secuestrarse
 sinaloa
 substanciándose
 substituídos
-suceptibles
 tamaulipas
 tepic
 tlaxcala
