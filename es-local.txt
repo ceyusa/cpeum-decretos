@@ -1,12 +1,14 @@
-personal_ws-1.1 es 77 utf-8
+personal_ws-1.1 es 81 utf-8
 administrdativa
 aguascalientes
 aprehenderse
 asignársele
 auxiliándosele
 averigue
+belice
 caracter
 cateos
+catoche
 celebrarse
 chiapas
 coahuila
@@ -27,8 +29,10 @@ delictuoso
 despedírsele
 disposicioies
 durango
+greenwich
 guadalupe
 guanajuato
+guatemala
 impues
 incluída
 indolatinos
