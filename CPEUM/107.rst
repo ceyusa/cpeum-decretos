@@ -88,7 +88,7 @@ VII. El amparo contra actos en juicio, fuera de juicio o después de
      concluído o que afecten a personas extrañas al juicio, contra leyes
      y contra actos de autoridad administrativa, se interpondrá ante el
      Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en
-     que el acto reclamado se ejecute o trate de ejecutarse y su
+     que el acto reclamado se ejecute o trate de ejecutarse, y su
      tramitación se limitará al informe de la autoridad, a una audiencia
      para la que se citará en el mismo auto en el que se mande pedir el
      informe y se recibirán las pruebas que las partes interesadas
@@ -106,8 +106,8 @@ VIII. Contra las sentencias que pronuncien en amparo los jueces de
       b. Cuando la autoridad responsable en amparo administrativo sea
          federal.
 
-      c. Cuando se reclamen, en materia penal, solamente la violación
-         del artículo 22 de esta Constitución.
+      c. Cuando se reclame, en materia penal, solamente la violación del
+         artículo 22 de esta Constitución.
 
       En los demás casos de la revisión los Tribunales Colegiados de
       Circuito y sus sentencias no admitirán recurso alguno.
@@ -163,7 +163,7 @@ XII. La violación de las garantías de los artículos 16, en materia
      misma ley establezca;
 
 XIII. La ley determinará los términos y casos en que sea obligatoria la
-      jurisdisdicción de los Tribunales del Poder Judicial de la
+      jurisprudencia de los Tribunales del Poder Judicial de la
       Federación, así como los requisitos para su modificación.
 
       Si los Tribunales Colegiados de Circuito sustentan tesis
