@@ -471,6 +471,14 @@ DECRETO que reforma los artículos 43 y 45 constitucionales.
 
 .. include:: T023.rst
 
+Artículos transitorios de decretos de reforma (32)
+--------------------------------------------------
+
+DECRETO que modifica los artículos 73 y 117 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T032.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
