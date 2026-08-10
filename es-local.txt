@@ -1,4 +1,4 @@
-personal_ws-1.1 es 88 utf-8
+personal_ws-1.1 es 89 utf-8
 administrdativa
 aduanal
 aduanales
@@ -17,6 +17,7 @@ comisariados
 concediéndosele
 concedérseles
 concejiles
+concesionados
 constitucion
 constituída
 constituído
