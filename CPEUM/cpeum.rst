@@ -487,6 +487,14 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T035.rst
 
+Artículos transitorios de decretos de reforma (38)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 73, fracción VI, base 4a; 94 y 111 de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T038.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
