@@ -1,4 +1,4 @@
-personal_ws-1.1 es 95 utf-8
+personal_ws-1.1 es 96 utf-8
 administrdativa
 aduanal
 aduanales
@@ -21,6 +21,7 @@ concesionados
 concluído
 constitucion
 constituída
+constituídas
 constituído
 constituídos
 construído
