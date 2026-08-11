@@ -922,6 +922,16 @@ artículo 74 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T098.rst
 
+Artículos transitorios de decretos de reforma (99)
+--------------------------------------------------
+
+DECRETO de reformas y adiciones al Título Cuarto que comprende los
+artículos del 108 al 114; así como los artículos 22, 73 fracción VI base
+4a., 74 fracción V, 76 fracción VII, 94, 97, 127 y 134 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T099.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
