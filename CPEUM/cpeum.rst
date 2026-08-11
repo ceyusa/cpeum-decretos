@@ -658,6 +658,15 @@ de la República.
 
 .. include:: T066.rst
 
+Artículos transitorios de decretos de reforma (67)
+--------------------------------------------------
+
+DECRETO que reforma y adiciona los artículos 94, 98, 100, 102, 104
+fracción I, 105 y 107 fracción II párrafo final, III, IV, V, VI, VIII,
+XIII y XVI, de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T067.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
