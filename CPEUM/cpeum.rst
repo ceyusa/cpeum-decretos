@@ -864,6 +864,15 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T091.rst
 
+Artículos transitorios de decretos de reforma (92)
+--------------------------------------------------
+
+DECRETO por el que se adiciona con una fracción VIII el artículo 3o. de
+la Constitución Política de los Estados Unidos Mexicanos y cambia el
+número de la última fracción del mismo artículo.
+
+.. include:: T092.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
