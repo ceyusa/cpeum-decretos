@@ -699,6 +699,16 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T072.rst
 
+Artículos transitorios de decretos de reforma (73)
+--------------------------------------------------
+
+REFORMAS y Adiciones a los artículos 52, 54 fracciones I, II y III; 55,
+fracción II; y 58 de la Constitución Política de los Estados Unidos
+Mexicanos, que la Comisión Permanente del H. Congreso de la Unión
+declara que han sido aprobadas.
+
+.. include:: T073.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
