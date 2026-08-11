@@ -813,6 +813,15 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T085.rst
 
+Artículos transitorios de decretos de reforma (86)
+--------------------------------------------------
+
+DECRETO que reforma y adiciona los artículos 6o., 41, 51, 52, 53, 54,
+55, 60, 61, 65, 70, 73, 74, 76, 93, 97 y 115 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T086.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
