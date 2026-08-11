@@ -1,4 +1,4 @@
-personal_ws-1.1 es 122 utf-8
+personal_ws-1.1 es 123 utf-8
 administrdativa
 aduanal
 aduanales
@@ -33,6 +33,7 @@ constituídos
 construído
 consuetudinaria
 contrafianza
+coordinarse
 costeable
 curales
 curules
