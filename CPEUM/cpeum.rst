@@ -795,6 +795,16 @@ económica exclusiva situada fuera del mar territorial.
 
 .. include:: T083.rst
 
+Artículos transitorios de decretos de reforma (84)
+--------------------------------------------------
+
+DECRETO por el que se reforma el párrafo tercero del artículo 27; se
+adicionan el artículo 73 con la fracción XXIX-C y el artículo 115 con
+las fracciones IV y V, de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T084.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
