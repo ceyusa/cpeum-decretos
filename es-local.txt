@@ -1,4 +1,4 @@
-personal_ws-1.1 es 106 utf-8
+personal_ws-1.1 es 107 utf-8
 administrdativa
 aduanal
 aduanales
@@ -9,6 +9,7 @@ averigue
 caducidad
 caracter
 cateos
+caucional
 celebrarse
 chiapas
 coahuila
@@ -22,7 +23,6 @@ concediéndosele
 concedérseles
 concejiles
 concesionados
-concluído
 constitucion
 constituída
 constituídas
@@ -42,6 +42,7 @@ disminuída
 disposicioies
 dotatorias
 durango
+ejecutoriedad
 ejidales
 ejidatarios
 gravable
@@ -56,6 +57,7 @@ inspeccionarse
 interpósita
 intersindicales
 jalisco
+jurisprudenciales
 michoacán
 morelos
 municipalidades
@@ -78,7 +80,6 @@ secuestrarse
 sentenciarse
 sinaloa
 sobreseimiento
-sobreserá
 substituídos
 suplirse
 tamaulipas
