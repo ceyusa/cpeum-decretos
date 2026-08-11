@@ -940,6 +940,14 @@ de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T100.rst
 
+Artículos transitorios de decretos de reforma (101)
+----------------------------------------------------
+
+DECRETO por el que se reforma el Artículo 21 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T101.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
