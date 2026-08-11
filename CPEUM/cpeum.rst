@@ -914,6 +914,14 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T097.rst
 
+Artículos transitorios de decretos de reforma (98)
+--------------------------------------------------
+
+DECRETO por el que se reforma el párrafo segundo de la fracción IV del
+artículo 74 de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T098.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
