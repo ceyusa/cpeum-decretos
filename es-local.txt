@@ -1,11 +1,10 @@
-personal_ws-1.1 es 110 utf-8
+personal_ws-1.1 es 114 utf-8
 administrdativa
 aduanal
 aduanales
 aguascalientes
 aprehenderse
 auxiliándosele
-averigue
 caducidad
 caracter
 cateos
@@ -34,6 +33,7 @@ consuetudinaria
 contrafianza
 costeable
 curales
+curules
 decretarse
 delictuoso
 desistimiento
@@ -67,6 +67,8 @@ nayarit
 nulificada
 oaxaca
 patrióticamente
+plurinominal
+plurinominales
 politica
 portación
 prescriptas
@@ -81,6 +83,7 @@ revillagigedo
 revocarse
 secuestrarse
 sentenciarse
+sesionar
 sinaloa
 sobreseimiento
 substituídos
@@ -91,6 +94,7 @@ tlaxcala
 tramitarse
 turnarlas
 unico
+uninominales
 vedarse
 venustiano
 veracruz
