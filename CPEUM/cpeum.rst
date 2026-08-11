@@ -626,6 +626,14 @@ DECRETO que reforma y adiciona el artículo 18 Constitucional.
 
 .. include:: T062.rst
 
+Artículos transitorios de decretos de reforma (63)
+--------------------------------------------------
+
+DECRETO que declara adicionada la fracción XXV del artículo 73 de la
+Constitución General de la República.
+
+.. include:: T063.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
