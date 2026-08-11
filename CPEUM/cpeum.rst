@@ -856,6 +856,14 @@ de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T090.rst
 
+Artículos transitorios de decretos de reforma (91)
+--------------------------------------------------
+
+DECRETO por el que se adiciona un tercer párrafo al Artículo 4o. de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T091.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
