@@ -1,4 +1,4 @@
-personal_ws-1.1 es 115 utf-8
+personal_ws-1.1 es 116 utf-8
 administrdativa
 aduanal
 aduanales
@@ -64,6 +64,7 @@ jurisprudenciales
 michoacán
 morelos
 nayarit
+normarán
 nulificada
 oaxaca
 patrióticamente
