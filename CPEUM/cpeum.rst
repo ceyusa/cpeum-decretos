@@ -709,6 +709,15 @@ declara que han sido aprobadas.
 
 .. include:: T073.rst
 
+Artículos transitorios de decretos de reforma (74)
+--------------------------------------------------
+
+REFORMA a la fracción XII del Apartado A del Artículo 123 de la
+Constitución Política de los Estados Unidos Mexicanos, que la Comisión
+Permanente del H. Congreso de la Unión declara que ha sido aprobada.
+
+.. include:: T074.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
