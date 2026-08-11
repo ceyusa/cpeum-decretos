@@ -728,6 +728,14 @@ Mexicanos.
 
 .. include:: T075.rst
 
+Artículos transitorios de decretos de reforma (76)
+--------------------------------------------------
+
+DECRETO que reforma y adiciona el Artículo 93 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T076.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
