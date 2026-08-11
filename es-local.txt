@@ -1,4 +1,4 @@
-personal_ws-1.1 es 103 utf-8
+personal_ws-1.1 es 104 utf-8
 administrdativa
 aduanal
 aduanales
@@ -43,6 +43,7 @@ dotatorias
 durango
 ejidales
 ejidatarios
+gravable
 guadalupe
 guanajuato
 hulera
