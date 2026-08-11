@@ -889,6 +889,14 @@ Constitución Política de los Estados Unidos Mexicanos .
 
 .. include:: T094.rst
 
+Artículos transitorios de decretos de reforma (95)
+--------------------------------------------------
+
+DECRETO por el que se reforma la Fracción VIII del Artículo 117 de la
+Constitución Política de los Estados Unidos Mexicanos .
+
+.. include:: T095.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
