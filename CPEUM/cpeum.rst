@@ -642,6 +642,14 @@ General de la República.
 
 .. include:: T064.rst
 
+Artículos transitorios de decretos de reforma (65)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 79, 88, 89 y 135 de la Constitución
+General de la República.
+
+.. include:: T065.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
