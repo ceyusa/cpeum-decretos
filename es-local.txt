@@ -1,4 +1,4 @@
-personal_ws-1.1 es 109 utf-8
+personal_ws-1.1 es 110 utf-8
 administrdativa
 aduanal
 aduanales
@@ -40,11 +40,14 @@ desistimiento
 despedírsele
 disminuída
 disposicioies
+distrital
+distritales
 dotatorias
 durango
 ejecutoriedad
 ejidales
 ejidatarios
+funjan
 gravable
 guadalupe
 guanajuato
@@ -60,7 +63,6 @@ jalisco
 jurisprudenciales
 michoacán
 morelos
-municipalidades
 nayarit
 nulificada
 oaxaca
@@ -75,7 +77,6 @@ readaptación
 recaudarse
 regulándose
 restituído
-restituídos
 revillagigedo
 revocarse
 secuestrarse
