@@ -1,10 +1,11 @@
-personal_ws-1.1 es 116 utf-8
+personal_ws-1.1 es 117 utf-8
 administrdativa
 aduanal
 aduanales
 aguascalientes
 aprehenderse
 autopartes
+autónomamente
 auxiliándosele
 caducidad
 caracter
@@ -35,7 +36,6 @@ costeable
 curales
 curules
 decretarse
-delictuoso
 desistimiento
 despedírsele
 disminuída
@@ -47,6 +47,7 @@ durango
 ejecutoriedad
 ejidales
 ejidatarios
+fungir
 funjan
 gravable
 guadalupe
