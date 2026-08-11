@@ -1,4 +1,4 @@
-personal_ws-1.1 es 117 utf-8
+personal_ws-1.1 es 122 utf-8
 administrdativa
 aduanal
 aduanales
@@ -24,6 +24,7 @@ concediéndosele
 concedérseles
 concejiles
 concesionados
+concesionar
 constitucion
 constituída
 constituídas
@@ -45,6 +46,7 @@ distritales
 dotatorias
 durango
 ejecutoriedad
+ejidal
 ejidales
 ejidatarios
 fungir
@@ -58,17 +60,20 @@ inafectabilidad
 incluída
 incluídas
 inspeccionarse
+insumos
 interpósita
 intersindicales
 jalisco
 jurisprudenciales
 michoacán
+monopólicas
 morelos
 nayarit
 normarán
 nulificada
 oaxaca
 patrióticamente
+planeación
 plurinominal
 plurinominales
 politica

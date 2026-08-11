@@ -948,6 +948,15 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T101.rst
 
+Artículos transitorios de decretos de reforma (102)
+---------------------------------------------------
+
+DECRETO que reforma y adiciona los artículos 16, 25, 26, 27, fracciones
+XIX y XX; 28, 73, fracciones XXIX-D; XXIX-E; y XXIX-F de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T102.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
