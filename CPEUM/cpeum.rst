@@ -786,6 +786,15 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T082.rst
 
+Artículos transitorios de decretos de reforma (83)
+--------------------------------------------------
+
+DECRETO por el que se adiciona el artículo 27 de la Constitución
+Política de los Estados Unidos Mexicanos, para establecer una zona
+económica exclusiva situada fuera del mar territorial.
+
+.. include:: T083.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
