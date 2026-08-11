@@ -611,6 +611,14 @@ Estados Unidos Mexicanos.
 
 .. include:: T060.rst
 
+Artículos transitorios de decretos de reforma (61)
+--------------------------------------------------
+
+DECRETO de Reformas y Adiciones a los artículos 54 y 63 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T061.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
