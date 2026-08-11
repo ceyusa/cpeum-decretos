@@ -1,9 +1,10 @@
-personal_ws-1.1 es 114 utf-8
+personal_ws-1.1 es 116 utf-8
 administrdativa
 aduanal
 aduanales
 aguascalientes
 aprehenderse
+autopartes
 auxiliándosele
 caducidad
 caracter
@@ -92,6 +93,7 @@ tamaulipas
 tepic
 tlaxcala
 tramitarse
+triplay
 turnarlas
 unico
 uninominales
