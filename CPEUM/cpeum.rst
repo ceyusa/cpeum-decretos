@@ -881,6 +881,14 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T093.rst
 
+Artículos transitorios de decretos de reforma (94)
+--------------------------------------------------
+
+DECRETO por el que se reforman los Artículos 29, 90 y 92 de la
+Constitución Política de los Estados Unidos Mexicanos .
+
+.. include:: T094.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
