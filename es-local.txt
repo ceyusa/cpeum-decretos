@@ -1,4 +1,4 @@
-personal_ws-1.1 es 97 utf-8
+personal_ws-1.1 es 103 utf-8
 administrdativa
 aduanal
 aduanales
@@ -6,6 +6,7 @@ aguascalientes
 aprehenderse
 auxiliándosele
 averigue
+caducidad
 caracter
 cateos
 celebrarse
@@ -14,6 +15,8 @@ coahuila
 coaligarse
 colegisladora
 comisariados
+comunal
+comuneros
 concediéndosele
 concedérseles
 concejiles
@@ -32,12 +35,14 @@ curales
 decretarse
 deerminará
 delictuoso
+desistimiento
 despedírsele
 disminuída
 disposicioies
 dotatorias
 durango
 ejidales
+ejidatarios
 guadalupe
 guanajuato
 hulera
@@ -69,6 +74,7 @@ revocarse
 secuestrarse
 sentenciarse
 sinaloa
+sobreseimiento
 sobreserá
 substituídos
 suplirse
