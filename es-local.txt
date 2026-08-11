@@ -1,4 +1,4 @@
-personal_ws-1.1 es 110 utf-8
+personal_ws-1.1 es 109 utf-8
 administrdativa
 aduanal
 aduanales
@@ -34,7 +34,6 @@ contrafianza
 costeable
 curales
 decretarse
-deerminará
 delictuoso
 desistimiento
 despedírsele
