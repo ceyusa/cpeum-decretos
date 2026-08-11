@@ -873,6 +873,14 @@ número de la última fracción del mismo artículo.
 
 .. include:: T092.rst
 
+Artículos transitorios de decretos de reforma (93)
+--------------------------------------------------
+
+DECRETO por el que se reforma el Artículo 78 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T093.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
