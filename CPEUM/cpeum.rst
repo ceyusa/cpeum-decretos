@@ -691,6 +691,14 @@ artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T071.rst
 
+Artículos transitorios de decretos de reforma (72)
+--------------------------------------------------
+
+DECRETO por el que se reforma el artículo 10 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T072.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
