@@ -595,6 +595,14 @@ Mexicanos.
 
 .. include:: T058.rst
 
+Artículos transitorios de decretos de reforma (59)
+--------------------------------------------------
+
+DECRETO por el que se adiciona con un párrafo final la fracción II del
+artículo 107 de la Constitucional.
+
+.. include:: T059.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
