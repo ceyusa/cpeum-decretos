@@ -1005,6 +1005,16 @@ la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T108.rst
 
+Artículos transitorios de decretos de reforma (109)
+----------------------------------------------------
+
+DECRETO por el que se reforman los Artículos 52; 53, Segundo Párrafo;
+54, Primer Párrafo y Fracciones II, III y IV; 56; 60; 77, Fracción IV y
+Décimo Octavo Transitorio de la Constitución Política de los Estados
+Unidos Mexicanos.
+
+.. include:: T109.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
