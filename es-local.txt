@@ -1,4 +1,4 @@
-personal_ws-1.1 es 125 utf-8
+personal_ws-1.1 es 126 utf-8
 administrdativa
 aduanal
 aduanales
@@ -86,6 +86,7 @@ prseidente
 querétaro
 rancherías
 readaptación
+recabarse
 recaudarse
 regulándose
 restituído
