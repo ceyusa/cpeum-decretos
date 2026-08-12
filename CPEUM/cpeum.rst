@@ -1103,6 +1103,16 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T118.rst
 
+Artículos transitorios de decretos de reforma (119)
+---------------------------------------------------
+
+DECRETO que deroga el párrafo quinto del Artículo 28, modifica y
+adiciona el inciso a) de la fracción XXXI del apartado A del Artículo
+123 y reforma la fracción XIII bis del apartado B del Artículo 123 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T119.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
