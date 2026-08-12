@@ -997,6 +997,14 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T107.rst
 
+Artículos transitorios de decretos de reforma (108)
+----------------------------------------------------
+
+DECRETO por el que se reforman los Artículos 106 y 107, Fracción II de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T108.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
