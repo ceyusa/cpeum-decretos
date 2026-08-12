@@ -1057,6 +1057,16 @@ Unidos Mexicanos.
 
 .. include:: T113.rst
 
+Artículos transitorios de decretos de reforma (114)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 73 fracción VI, 79 fracción
+V, 89 fracciones II y XVII, 110 primer párrafo, 111 primer párrafo y
+127; y se deroga la fracción VI del artículo 74 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T114.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
