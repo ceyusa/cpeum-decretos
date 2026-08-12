@@ -1093,6 +1093,16 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T117.rst
 
+Artículos transitorios de decretos de reforma (118)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 5, 35 fracción
+III, 36 fracción I, 41, 54, 60 y 73 fracción VI, base 3a. y se derogan
+los artículos transitorios 17, 18 y 19, todos de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T118.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
