@@ -1,4 +1,4 @@
-personal_ws-1.1 es 129 utf-8
+personal_ws-1.1 es 130 utf-8
 administrdativa
 aduanal
 aduanales
@@ -6,6 +6,7 @@ aguascalientes
 aprehenderse
 autopartes
 autónomamente
+auxiliarse
 auxiliándosele
 caducidad
 caracter
