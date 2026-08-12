@@ -1033,6 +1033,15 @@ los términos que se indican.
 
 .. include:: T111.rst
 
+Artículos transitorios de decretos de reforma (112)
+----------------------------------------------------
+
+DECRETO por el que se reforma el párrafo sexto de la fracción IV del
+Artículo 74 de la Constitución General de la República, para quedar en
+los términos que se indican.
+
+.. include:: T112.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
