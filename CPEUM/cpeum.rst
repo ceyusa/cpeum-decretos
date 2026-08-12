@@ -1015,6 +1015,15 @@ Unidos Mexicanos.
 
 .. include:: T109.rst
 
+Artículos transitorios de decretos de reforma (110)
+----------------------------------------------------
+
+DECRETO por el que se reforma la fracción VI del inciso A) del Artículo
+123 de la Constitución General de la República, para quedar como se
+indica.
+
+.. include:: T110.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
