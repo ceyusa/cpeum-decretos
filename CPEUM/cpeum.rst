@@ -1076,6 +1076,15 @@ Unidos Mexicanos.
 
 .. include:: T115.rst
 
+Artículos transitorios de decretos de reforma (116)
+---------------------------------------------------
+
+DECRETO por el que se reforma el párrafo tercero del artículo 27; y se
+adiciona una fracción XXIX-G al artículo 73 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T116.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
