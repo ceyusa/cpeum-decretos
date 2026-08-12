@@ -1,4 +1,4 @@
-personal_ws-1.1 es 130 utf-8
+personal_ws-1.1 es 129 utf-8
 administrdativa
 aduanal
 aduanales
@@ -41,9 +41,9 @@ costeable
 curales
 curules
 decretarse
+desconcentración
 desistimiento
 despedírsele
-disminuída
 disposicioies
 distrital
 distritales
@@ -100,7 +100,6 @@ sentenciarse
 sesionar
 sinaloa
 sobreseimiento
-substituídos
 suplirse
 tamaulipas
 tepic
