@@ -1067,6 +1067,15 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T114.rst
 
+Artículos transitorios de decretos de reforma (115)
+---------------------------------------------------
+
+DECRETO por el que se reforma el artículo 78; y se adiciona el artículo
+Décimo Noveno Transitorio a la Constitución Política de los Estados
+Unidos Mexicanos.
+
+.. include:: T115.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
