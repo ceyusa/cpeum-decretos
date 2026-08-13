@@ -1,4 +1,5 @@
-personal_ws-1.1 es 146 utf-8
+personal_ws-1.1 es 147 utf-8
+acuacultura
 administrdativa
 aduanal
 aduanales
