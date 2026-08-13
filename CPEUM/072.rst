@@ -2,19 +2,25 @@
 
 Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de
 alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose
-el Reglamento de Debates sobre la forma, intervalos y modo de proceder
-en las discusiones y votaciones.
+la Ley del Congreso y sus reglamentos respectivos, sobre la forma,
+intervalos y modo de proceder en las discusiones y votaciones.
 
 A. Aprobado un proyecto en la Cámara de su origen, pasará para su
    discusión a la otra. Si ésta lo aprobare, se remitirá al Ejecutivo,
    quien, si no tuviere observaciones que hacer, lo publicará
    inmediatamente.
 
-B. Se reputará aprobado por el Poder Ejecutivo, todo proyecto no
-   devuelto con observaciones a la Cámara de su origen, dentro de diez
-   días útiles; a no ser que, corriendo este término hubiere el Congreso
-   cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá
-   hacerse el primer día útil en que el Congreso esté reunido.
+B. Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto
+   con observaciones a la Cámara de su origen dentro de los treinta días
+   naturales siguientes a su recepción; vencido este plazo el Ejecutivo
+   dispondrá de diez días naturales para promulgar y publicar la ley o
+   decreto. Transcurrido este segundo plazo, la ley o decreto será
+   considerado promulgado y el Presidente de la Cámara de origen
+   ordenará dentro de los diez días naturales siguientes su publicación
+   en el Diario Oficial de la Federación, sin que se requiera refrendo.
+   Los plazos a que se refiere esta fracción no se interrumpirán si el
+   Congreso cierra o suspende sus sesiones, en cuyo caso la devolución
+   deberá hacerse a la Comisión Permanente.
 
 C. El Proyecto de ley o decreto desechado en todo o en parte por el
    Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su
