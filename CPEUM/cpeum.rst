@@ -1604,6 +1604,14 @@ y 111 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T175.rst
 
+Artículos transitorios de decretos de reforma (176)
+---------------------------------------------------
+
+DECRETO por el que se adiciona una fracción XXIX-N al artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T176.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
