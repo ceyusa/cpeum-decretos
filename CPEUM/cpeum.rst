@@ -1146,6 +1146,14 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T123.rst
 
+Artículos transitorios de decretos de reforma (124)
+---------------------------------------------------
+
+DECRETO que declara reformados los artículos 3o. y 31 fracción I, de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T124.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
