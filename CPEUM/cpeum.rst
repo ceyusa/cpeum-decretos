@@ -1502,6 +1502,15 @@ Mexicanos.
 
 .. include:: T163.rst
 
+Artículos transitorios de decretos de reforma (164)
+----------------------------------------------------
+
+DECRETO por el que se declara reformados los artículos 14, segundo
+párrafo y 22 primer párrafo, y derogado el cuarto párrafo del artículo
+22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T164.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
