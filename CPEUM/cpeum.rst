@@ -1419,6 +1419,15 @@ Estados Unidos Mexicanos.
 
 .. include:: T154.rst
 
+Artículos transitorios de decretos de reforma (155)
+----------------------------------------------------
+
+DECRETO por el que se aprueba el diverso que reforma el párrafo primero
+del artículo 63 y la fracción IV del artículo 77 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T155.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
