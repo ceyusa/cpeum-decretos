@@ -1,4 +1,4 @@
-personal_ws-1.1 es 134 utf-8
+personal_ws-1.1 es 138 utf-8
 administrdativa
 aduanal
 aduanales
@@ -17,7 +17,6 @@ cateos
 celebrarse
 chiapas
 circunscripcionales
-circuíto
 coahuila
 coaligarse
 colegisladora
@@ -40,11 +39,12 @@ contrafianza
 conurbadas
 coordinarse
 costeable
-círcuito
+curules
 decretarse
 definitividad
 desistimiento
 despedírsele
+dirigencias
 disposicioies
 distrital
 distritales
@@ -71,9 +71,11 @@ jalisco
 jurisprudenciales
 lvii
 michoacán
+ministraciones
 monopólicas
 morelos
 nayarit
+normar
 normarán
 nulificada
 oaxaca
@@ -86,10 +88,11 @@ politica
 ponérsele
 portación
 prescriptas
+presupuestales
 privacía
 prohiba
 prohiban
-promulgatorios
+promulgarse
 prseidente
 querétaro
 rancherías
@@ -105,6 +108,7 @@ sentenciarse
 sesionar
 sinaloa
 sobreseimiento
+socioeconómica
 suplirse
 tamaulipas
 tepic
