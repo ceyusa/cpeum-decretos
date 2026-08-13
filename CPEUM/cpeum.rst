@@ -1864,6 +1864,17 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T205.rst
 
+Artículos transitorios de decretos de reforma (206)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 3o. en sus fracciones III,
+VII y VIII; y 73, fracción XXV, y se adiciona un párrafo tercero, un
+inciso d) al párrafo segundo de la fracción II y una fracción IX al
+artículo 3o. de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T206.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
