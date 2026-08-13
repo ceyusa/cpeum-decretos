@@ -1554,6 +1554,15 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T169.rst
 
+Artículos transitorios de decretos de reforma (170)
+---------------------------------------------------
+
+DECRETO por el que se reforma el artículo 76 fracción I, y el artículo
+89 fracción X, de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T170.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
