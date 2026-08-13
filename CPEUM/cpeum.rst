@@ -1620,6 +1620,15 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T177.rst
 
+Artículos transitorios de decretos de reforma (178)
+---------------------------------------------------
+
+DECRETO que reforma los artículos 6o., 41, 85, 99, 108, 116 y 122;
+adiciona el artículo 134 y deroga un párrafo al artículo 97 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T178.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
