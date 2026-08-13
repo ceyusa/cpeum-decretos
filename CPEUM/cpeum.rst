@@ -1130,6 +1130,14 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T121.rst
 
+Artículos transitorios de decretos de reforma (122)
+---------------------------------------------------
+
+DECRETO por el que se reforma el Artículo 4o. de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T122.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
