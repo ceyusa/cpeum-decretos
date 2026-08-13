@@ -297,8 +297,8 @@ Capítulo IV. Del Poder Judicial
 
 .. include:: 107.rst
 
-Título Cuarto. De las Responsabilidades de los Funcionarios Públicos
---------------------------------------------------------------------
+Título Cuarto. De las responsabilidades de los servidores públicos y patrimonial del Estado.
+--------------------------------------------------------------------------------------------
 
 .. include:: 108.rst
 
@@ -1389,6 +1389,16 @@ artículo 115 de la Constitución Política de los Estados Unidos
 Mexicanos.
 
 .. include:: T151.rst
+
+Artículos transitorios de decretos de reforma (152)
+---------------------------------------------------
+
+DECRETO por el que se aprueba el diverso por el que se modifica la
+denominación del Título Cuarto y se adiciona un segundo párrafo al
+artículo 113 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T152.rst
 
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
