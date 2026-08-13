@@ -1822,6 +1822,15 @@ un párrafo sexto recorriéndose en su orden los subsecuentes, al artículo
 
 .. include:: T200.rst
 
+Artículos transitorios de decretos de reforma (201)
+---------------------------------------------------
+
+DECRETO por el que se declara reformado el párrafo primero; el inciso c)
+de la fracción II y la fracción V del artículo 3o., y la fracción I del
+artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T201.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
