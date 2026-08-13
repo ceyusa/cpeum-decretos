@@ -32,8 +32,8 @@ FEBRERO DEL 1857.
 Título Primero
 --------------
 
-Capítulo I. De las Garantías Individuales
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Capítulo I. De los Derechos Humanos y sus Garantías
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. include:: 001.rst
 
@@ -1759,6 +1759,15 @@ disposiciones de los artículos 94, 103, 104 y 107 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T193.rst
+
+Artículos transitorios de decretos de reforma (194)
+---------------------------------------------------
+
+DECRETO por el que se modifica la denominación del Capítulo I del Título
+Primero y reforma diversos artículos de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T194.rst
 
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
