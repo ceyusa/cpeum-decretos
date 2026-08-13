@@ -1490,6 +1490,18 @@ Unidos Mexicanos.
 
 .. include:: T162.rst
 
+Artículos transitorios de decretos de reforma (163)
+---------------------------------------------------
+
+DECRETO por el que se reforma el único párrafo y se adicionan un segundo
+y tercer párrafos al artículo 46; se deroga la fracción IV del artículo
+73; se adicionan las fracciones X y XI, pasando la actual fracción X a
+ser fracción XII del artículo 76, y se reforma la fracción I del
+artículo 105, todos de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T163.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
