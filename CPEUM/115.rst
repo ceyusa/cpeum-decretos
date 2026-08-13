@@ -182,7 +182,10 @@ IV. Los municipios administrarán libremente su hacienda, la cual se
     Las legislaturas de los Estados aprobarán las leyes de ingresos de
     los municipios, revisarán y fiscalizarán sus cuentas públicas. Los
     presupuestos de egresos serán aprobados por los ayuntamientos con
-    base en sus ingresos disponibles.
+    base en sus ingresos disponibles, y deberán incluir en los mismos,
+    los tabuladores desglosados de las remuneraciones que perciban los
+    servidores públicos municipales, sujetándose a lo dispuesto en el
+    artículo 127 de esta Constitución.
 
     Los recursos que integran la hacienda municipal serán ejercidos en
     forma directa por los ayuntamientos, o bien, por quien ellos
