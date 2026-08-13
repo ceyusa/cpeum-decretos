@@ -1563,6 +1563,14 @@ Mexicanos.
 
 .. include:: T170.rst
 
+Artículos transitorios de decretos de reforma (171)
+---------------------------------------------------
+
+DECRETO por el que se reforma la fracción VI, del artículo 82 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T171.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
