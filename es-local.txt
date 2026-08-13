@@ -1,4 +1,4 @@
-personal_ws-1.1 es 156 utf-8
+personal_ws-1.1 es 158 utf-8
 acuacultura
 administrdativa
 aduanal
@@ -32,6 +32,7 @@ concediéndosele
 concejiles
 concesionados
 concesionar
+confiabilidad
 constitucion
 constituída
 constituídas
@@ -96,6 +97,7 @@ oaxaca
 patrióticamente
 permisionarios
 planeación
+plurianuales
 pluricultural
 plurinominal
 plurinominales
