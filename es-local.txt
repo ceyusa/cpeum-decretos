@@ -1,4 +1,4 @@
-personal_ws-1.1 es 142 utf-8
+personal_ws-1.1 es 143 utf-8
 administrdativa
 aduanal
 aduanales
@@ -13,6 +13,7 @@ auxiliándosele
 beneficiencia
 caducidad
 caracter
+carearse
 cateos
 celebrarse
 chiapas
