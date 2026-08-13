@@ -1301,6 +1301,15 @@ artículo 4o. Constitucional y se reforma el párrafo primero del artículo
 
 .. include:: T141.rst
 
+Artículos transitorios de decretos de reforma (142)
+---------------------------------------------------
+
+DECRETO por el que se declara reformada la fracción XXIX-H y se adiciona
+una fracción XXIX-I al artículo 73 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T142.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
