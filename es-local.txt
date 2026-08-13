@@ -1,7 +1,8 @@
-personal_ws-1.1 es 131 utf-8
+personal_ws-1.1 es 128 utf-8
 administrdativa
 aduanal
 aduanales
+agave
 aguascalientes
 aprehenderse
 autodeterminación
@@ -18,13 +19,12 @@ circunscripcionales
 coahuila
 coaligarse
 colegisladora
-comisariados
+comisariado
 compurgando
 compurgarán
 comunal
 comuneros
 concediéndosele
-concedérseles
 concejiles
 concesionados
 concesionar
@@ -47,10 +47,10 @@ despedírsele
 disposicioies
 distrital
 distritales
-dotatorias
 durango
 ejidal
 ejidales
+ejidatario
 ejidatarios
 fungir
 funjan
@@ -61,7 +61,6 @@ habérsele
 hulera
 imprudencial
 impues
-inafectabilidad
 incluída
 incluídas
 inspeccionarse
@@ -92,7 +91,6 @@ readaptación
 recabarse
 recaudarse
 regulándose
-restituído
 revillagigedo
 revocarse
 rigiéndose
@@ -106,7 +104,6 @@ suplirse
 tamaulipas
 tepic
 tlaxcala
-tramitarse
 triplay
 turnarlas
 unico
