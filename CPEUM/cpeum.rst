@@ -1734,6 +1734,15 @@ Unidos Mexicanos.
 
 .. include:: T190.rst
 
+Artículos transitorios de decretos de reforma (191)
+---------------------------------------------------
+
+DECRETO por el que se adiciona un párrafo tercero y se recorre el orden
+de los párrafos subsecuentes del artículo 17 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T191.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
