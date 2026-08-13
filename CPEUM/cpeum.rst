@@ -1803,6 +1803,16 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T198.rst
 
+Artículos transitorios de decretos de reforma (199)
+---------------------------------------------------
+
+DECRETO por el que se adiciona un párrafo tercero al artículo 4o.,
+recorriéndose en el orden los subsecuentes, y un segundo párrafo a la
+fracción XX del artículo 27, ambos de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T199.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
