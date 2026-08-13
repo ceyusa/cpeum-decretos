@@ -1,4 +1,4 @@
-personal_ws-1.1 es 129 utf-8
+personal_ws-1.1 es 128 utf-8
 administrdativa
 aduanal
 aduanales
@@ -91,7 +91,6 @@ rancherías
 readaptación
 recabarse
 regulándose
-renumerados
 revillagigedo
 revocarse
 rigiéndose
