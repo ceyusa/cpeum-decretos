@@ -1276,6 +1276,14 @@ de marzo de 1997.
 
 .. include:: T138.rst
 
+Artículos transitorios de decretos de reforma (139)
+---------------------------------------------------
+
+DECRETO por el que se declaran reformados los artículos 16, 19, 22 y 123
+de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T139.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
