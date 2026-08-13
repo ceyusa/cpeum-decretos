@@ -1,4 +1,4 @@
-personal_ws-1.1 es 147 utf-8
+personal_ws-1.1 es 148 utf-8
 acuacultura
 administrdativa
 aduanal
@@ -60,6 +60,7 @@ ejidatarios
 etnolingüísticos
 fincamiento
 fungir
+fungirá
 funjan
 gravable
 guadalupe
