@@ -230,6 +230,9 @@ Sección IV. De la Comisión Permanente
 
 .. include:: 078.rst
 
+Sección V. De la Fiscalización Superior de la Federación
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. include:: 079.rst
 
 Capítulo III. Del Poder Ejecutivo
@@ -1325,6 +1328,14 @@ DECRETO por el que se declara reformado el artículo 58 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T144.rst
+
+Artículos transitorios de decretos de reforma (145)
+---------------------------------------------------
+
+DECRETO por el que se declaran reformados los artículos 73, 74, 78 y 79
+de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T145.rst
 
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
