@@ -1,6 +1,5 @@
 personal_ws-1.1 es 163 utf-8
 acuacultura
-administrdativa
 aduanal
 aduanales
 agave
@@ -112,6 +111,7 @@ portación
 precampañas
 presupuestales
 privacía
+progresividad
 prohiba
 prohiban
 promoverse
