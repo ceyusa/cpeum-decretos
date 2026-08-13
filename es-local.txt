@@ -1,4 +1,4 @@
-personal_ws-1.1 es 126 utf-8
+personal_ws-1.1 es 127 utf-8
 administrdativa
 aduanal
 aduanales
@@ -76,6 +76,7 @@ nulificada
 oaxaca
 patrióticamente
 planeación
+pluricultural
 plurinominal
 plurinominales
 politica
