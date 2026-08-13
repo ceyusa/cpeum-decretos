@@ -1,4 +1,4 @@
-personal_ws-1.1 es 163 utf-8
+personal_ws-1.1 es 162 utf-8
 acuacultura
 aduanal
 aduanales
@@ -117,7 +117,6 @@ prohiban
 promoverse
 promulgarse
 prorrogarse
-prseidente
 querétaro
 rancherías
 readaptación
