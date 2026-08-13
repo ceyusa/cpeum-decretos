@@ -1511,6 +1511,16 @@ párrafo y 22 primer párrafo, y derogado el cuarto párrafo del artículo
 
 .. include:: T164.rst
 
+Artículos transitorios de decretos de reforma (165)
+----------------------------------------------------
+
+DECRETO por el que se declara reformado el párrafo cuarto y adicionados
+los párrafos quinto y sexto, y se recorre en su orden los últimos dos
+párrafos del Artículo 18 de la Constitución Política de los Estados
+Unidos Mexicanos.
+
+.. include:: T165.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
