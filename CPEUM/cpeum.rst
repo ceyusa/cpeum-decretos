@@ -1813,6 +1813,15 @@ Estados Unidos Mexicanos.
 
 .. include:: T199.rst
 
+Artículos transitorios de decretos de reforma (200)
+---------------------------------------------------
+
+DECRETO por el que se Declara reformado el párrafo quinto y se adiciona
+un párrafo sexto recorriéndose en su orden los subsecuentes, al artículo
+4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T200.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
