@@ -1215,6 +1215,14 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T131.rst
 
+Artículos transitorios de decretos de reforma (132)
+---------------------------------------------------
+
+DECRETO por el que se reforma la fracción I del Artículo 82 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T132.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
