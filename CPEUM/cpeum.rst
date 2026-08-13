@@ -1645,6 +1645,14 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T180.rst
 
+Artículos transitorios de decretos de reforma (181)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 69 y 93 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T181.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
