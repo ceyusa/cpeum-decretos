@@ -1716,6 +1716,15 @@ el 12 de diciembre de 2005.
 
 .. include:: T188.rst
 
+Artículos transitorios de decretos de reforma (189)
+----------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 75, 115, 116,
+122, 123 y 127 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T189.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
