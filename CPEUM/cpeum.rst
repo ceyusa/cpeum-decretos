@@ -1612,6 +1612,14 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T176.rst
 
+Artículos transitorios de decretos de reforma (177)
+---------------------------------------------------
+
+DECRETO por el que se reforma la fracción IV del artículo 99, de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T177.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
