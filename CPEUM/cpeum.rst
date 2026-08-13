@@ -1266,6 +1266,16 @@ la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T137.rst
 
+Artículos transitorios de decretos de reforma (138)
+---------------------------------------------------
+
+DECRETO por el que se declara reformado el artículo 3o. transitorio, del
+Decreto por el que se reformaron los artículos 30, 32 y 37 de la
+Constitución Política de los Estados Unidos Mexicanos, publicado el 20
+de marzo de 1997.
+
+.. include:: T138.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
