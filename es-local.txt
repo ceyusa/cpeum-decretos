@@ -1,4 +1,4 @@
-personal_ws-1.1 es 128 utf-8
+personal_ws-1.1 es 130 utf-8
 administrdativa
 aduanal
 aduanales
@@ -36,11 +36,11 @@ constituído
 constituídos
 consuetudinaria
 contrafianza
+conurbadas
 coordinarse
 costeable
 decretarse
 definitividad
-desconcentración
 desistimiento
 despedírsele
 disposicioies
@@ -86,10 +86,12 @@ portación
 prescriptas
 prohiba
 prohiban
+promulgatorios
 prseidente
 querétaro
 rancherías
 readaptación
+readscriban
 recabarse
 regulándose
 revillagigedo
