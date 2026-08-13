@@ -1,4 +1,4 @@
-personal_ws-1.1 es 138 utf-8
+personal_ws-1.1 es 139 utf-8
 administrdativa
 aduanal
 aduanales
@@ -93,6 +93,7 @@ privacía
 prohiba
 prohiban
 promulgarse
+prorrogarse
 prseidente
 querétaro
 rancherías
