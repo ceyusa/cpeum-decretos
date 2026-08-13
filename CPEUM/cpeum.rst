@@ -1446,6 +1446,15 @@ los Estados Unidos Mexicanos, publicado el veinte de marzo de 1997.
 
 .. include:: T157.rst
 
+Artículos transitorios de decretos de reforma (158)
+---------------------------------------------------
+
+DECRETO por el que se aprueba el diverso mediante el cual se reforma la
+fracción IV del artículo 74 de la Constitución Política de los Estados
+Unidos Mexicanos.
+
+.. include:: T158.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
