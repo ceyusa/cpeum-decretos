@@ -1934,6 +1934,16 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T213.rst
 
+Artículos transitorios de decretos de reforma (214)
+---------------------------------------------------
+
+DECRETO por el que se reforma el inciso e) y se adiciona un inciso o) de
+la fracción IV del artículo 116; y se reforma el artículo 122, Apartado
+C, Base Primera, fracción V, inciso f) de la Constitución Política de
+los Estados Unidos Mexicanos.
+
+.. include:: T214.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
