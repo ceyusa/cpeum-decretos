@@ -1186,6 +1186,15 @@ DECRETO por el que se reforman los artículos 41, 54, 56, 60, 63, 74 y
 
 .. include:: T128.rst
 
+Artículos transitorios de decretos de reforma (129)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 16, 19, 20 y 119 y se
+deroga la fracción XVIII del artículo 107 de la Constitución Política de
+los Estados Unidos Mexicanos.
+
+.. include:: T129.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
