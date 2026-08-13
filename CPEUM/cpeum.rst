@@ -1587,6 +1587,15 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T173.rst
 
+Artículos transitorios de decretos de reforma (174)
+---------------------------------------------------
+
+DECRETO por el que se adiciona un segundo párrafo con siete fracciones
+al Artículo 6o. de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T174.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
