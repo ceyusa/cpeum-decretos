@@ -1,9 +1,10 @@
-personal_ws-1.1 es 165 utf-8
+personal_ws-1.1 es 183 utf-8
 acuacultura
 aduanal
 aduanales
 agave
 aguascalientes
+anticompetitivos
 aprehenderse
 archivarse
 autodeterminación
@@ -21,6 +22,8 @@ circunscripcionales
 coahuila
 coaligarse
 colegisladora
+comercializadoras
+comercializadores
 comisariado
 compurgando
 compurgar
@@ -29,7 +32,9 @@ comunal
 comuneros
 concediéndosele
 concejiles
+concesionadas
 concesionados
+concesionamiento
 concesionar
 confiabilidad
 constitucion
@@ -50,18 +55,22 @@ curules
 decretarse
 definitividad
 delegacionales
+desincorporación
 desistimiento
 despedírsele
 desproporcionadamente
+diferendo
 dirigencias
 distrital
 distritales
+ductos
 durango
 ejerciéndose
 ejidal
 ejidales
 ejidatario
 ejidatarios
+emitirse
 etnolingüísticos
 faltante
 fincamiento
@@ -74,8 +83,10 @@ gravable
 guadalupe
 guanajuato
 habérsele
+hacendaria
 hulera
 impues
+impugnarse
 incluída
 incluídas
 inspeccionarse
@@ -83,6 +94,7 @@ insumos
 intercultural
 interpósita
 intersindicales
+intraprocesales
 jalisco
 jurisprudenciales
 lvii
@@ -109,6 +121,7 @@ plurinominales
 politica
 ponérsele
 portación
+postería
 precampañas
 presupuestal
 presupuestales
@@ -125,6 +138,7 @@ readaptación
 readscriban
 recabarse
 recibírsele
+regulatoria
 regulándose
 revillagigedo
 revocarse
@@ -132,11 +146,15 @@ rigiéndose
 secuestrarse
 sentenciarse
 sesionar
+sexenales
 sinaloa
 sobreseimiento
 socioeconómica
 suplirse
 tamaulipas
+tarifaria
+telemedicina
+telesalud
 tepic
 tlaxcala
 tramitándose

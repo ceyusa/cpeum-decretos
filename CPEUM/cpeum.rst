@@ -1884,6 +1884,15 @@ artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T207.rst
 
+Artículos transitorios de decretos de reforma (208)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de los
+artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política
+de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+.. include:: T208.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
