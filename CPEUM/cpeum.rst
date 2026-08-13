@@ -1926,6 +1926,14 @@ Energía.
 
 .. include:: T212.rst
 
+Artículos transitorios de decretos de reforma (213)
+---------------------------------------------------
+
+DECRETO por el que se adiciona una fracción XXIX-R al artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T213.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
