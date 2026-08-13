@@ -1400,6 +1400,16 @@ Mexicanos.
 
 .. include:: T152.rst
 
+Artículos transitorios de decretos de reforma (153)
+---------------------------------------------------
+
+DECRETO por el que se aprueba el diverso por el que se adiciona el
+artículo 3o., en su párrafo primero, fracciones III, V y VI, y el
+artículo 31 en su fracción I, de la Constitución Política de los Estados
+Unidos Mexicanos.
+
+.. include:: T153.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
