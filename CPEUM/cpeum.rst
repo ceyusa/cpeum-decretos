@@ -1670,6 +1670,15 @@ Mexicanos.
 
 .. include:: T183.rst
 
+Artículos transitorios de decretos de reforma (184)
+---------------------------------------------------
+
+DECRETO por el que se adiciona un párrafo noveno al artículo 4o.; se
+reforma la fracción XXV y se adiciona una fracción XXIX-Ñ al artículo 73
+de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T184.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
