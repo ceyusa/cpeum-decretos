@@ -1,7 +1,8 @@
-personal_ws-1.1 es 225 utf-8
+personal_ws-1.1 es 227 utf-8
 acuacultura
 aduanal
 aduanales
+afromexicanas
 agave
 aguascalientes
 alternadamente
@@ -12,6 +13,7 @@ archivarse
 asignatarios
 auditoria
 auditoría
+autodenominación
 autodeterminación
 autopartes
 autónomamente
