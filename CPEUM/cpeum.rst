@@ -2160,6 +2160,14 @@ en materia de Paridad entre Géneros.
 
 .. include:: T238.rst
 
+Artículos transitorios de decretos de reforma (239)
+---------------------------------------------------
+
+DECRETO por el que se adiciona un apartado C al artículo 2o. de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T239.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
