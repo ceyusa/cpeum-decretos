@@ -2262,6 +2262,15 @@ de los Estados Unidos Mexicanos, en materia de partidas secretas.
 
 .. include:: T250.rst
 
+Artículos transitorios de decretos de reforma (251)
+---------------------------------------------------
+
+DECRETO por el que se adiciona una fracción XXIII Bis al artículo 73 de
+la Constitución Política de los Estados Unidos Mexicanos, en materia de
+Seguridad Privada.
+
+.. include:: T251.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
