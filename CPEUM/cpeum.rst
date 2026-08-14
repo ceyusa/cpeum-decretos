@@ -2282,6 +2282,15 @@ de marzo de 2019.
 
 .. include:: T252.rst
 
+Artículos transitorios de decretos de reforma (253)
+---------------------------------------------------
+
+DECRETO por el que se declara adicionada una fracción X al artículo 116
+de la Constitución Política de los Estados Unidos Mexicanos, en materia
+de símbolos de las entidades federativas.
+
+.. include:: T253.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
