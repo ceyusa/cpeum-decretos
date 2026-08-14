@@ -1,4 +1,4 @@
-personal_ws-1.1 es 272 utf-8
+personal_ws-1.1 es 273 utf-8
 acuacultura
 aduanal
 aduanales
@@ -96,6 +96,7 @@ ejidatario
 ejidatarios
 emitirse
 etnolingüísticos
+extorsión
 extractivas
 faltante
 feminicidio
