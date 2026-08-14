@@ -2310,6 +2310,15 @@ ocupar un cargo público.
 
 .. include:: T255.rst
 
+Artículos transitorios de decretos de reforma (256)
+---------------------------------------------------
+
+DECRETO por el que se declara reformado el primer párrafo del artículo
+65 de la Constitución Política de los Estados Unidos Mexicanos, en
+materia de periodos de sesiones ordinarias del Congreso de la Unión.
+
+.. include:: T256.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-

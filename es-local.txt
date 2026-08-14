@@ -1,4 +1,4 @@
-personal_ws-1.1 es 235 utf-8
+personal_ws-1.1 es 239 utf-8
 acuacultura
 aduanal
 aduanales
@@ -123,6 +123,10 @@ lecto
 literacidad
 lvii
 lxii
+lxiv
+lxv
+lxvi
+lxvii
 michoacán
 microempresas
 ministraciones
