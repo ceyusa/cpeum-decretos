@@ -2254,6 +2254,14 @@ de los Estados Unidos Mexicanos (Veracruz de Ignacio de la Llave).
 
 .. include:: T249.rst
 
+Artículos transitorios de decretos de reforma (250)
+---------------------------------------------------
+
+DECRETO por el que se reforma el artículo 74 de la Constitución Política
+de los Estados Unidos Mexicanos, en materia de partidas secretas.
+
+.. include:: T250.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
