@@ -2151,6 +2151,15 @@ de los Estados Unidos Mexicanos, en materia educativa.
 
 .. include:: T237.rst
 
+Artículos transitorios de decretos de reforma (238)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56,
+94 y 115; de la Constitución Política de los Estados Unidos Mexicanos,
+en materia de Paridad entre Géneros.
+
+.. include:: T238.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
