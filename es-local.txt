@@ -1,8 +1,9 @@
-personal_ws-1.1 es 228 utf-8
+personal_ws-1.1 es 229 utf-8
 acuacultura
 aduanal
 aduanales
 afromexicanas
+afromexicanos
 agave
 aguascalientes
 alternadamente
