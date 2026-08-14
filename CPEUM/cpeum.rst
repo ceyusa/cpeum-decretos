@@ -2115,6 +2115,15 @@ Oficial de la Federación el 10 de febrero de 2014.
 
 .. include:: T233.rst
 
+Artículos transitorios de decretos de reforma (234)
+---------------------------------------------------
+
+DECRETO por el que se reforman el artículo 22 y la fracción XXX del
+artículo 73, de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de Extinción de Dominio.
+
+.. include:: T234.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
