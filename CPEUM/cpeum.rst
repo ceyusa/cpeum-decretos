@@ -2212,6 +2212,15 @@ Juventud.
 
 .. include:: T244.rst
 
+Artículos transitorios de decretos de reforma (245)
+---------------------------------------------------
+
+DECRETO por el que se declara reformados los artículos 108 y 111 de la
+Constitución Política de los Estados Unidos Mexicanos, en materia de
+fuero.
+
+.. include:: T245.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
