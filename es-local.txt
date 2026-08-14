@@ -1,4 +1,4 @@
-personal_ws-1.1 es 208 utf-8
+personal_ws-1.1 es 213 utf-8
 acuacultura
 aduanal
 aduanales
@@ -53,6 +53,7 @@ contragarantía
 conurbadas
 conurbados
 coordinarse
+corresponsabilidad
 costeable
 criminalísticos
 curules
@@ -86,19 +87,23 @@ fungir
 fungirá
 funjan
 geotérmicos
+gradualidad
 gravable
 guadalupe
 guanajuato
 habérsele
 hacendaria
+homologarse
 hulera
 impues
 impugnarse
+incapacitantes
 incluída
 incluídas
 inspeccionarse
 insumos
 intercultural
+interinstitucional
 interpósita
 intersindicales
 intrapartidaria
