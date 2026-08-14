@@ -2482,6 +2482,15 @@ fortalecimiento de la soberanía nacional.
 
 .. include:: T273.rst
 
+Artículos transitorios de decretos de reforma (274)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 55, 59, 82,
+115, 116 y 122 de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de no reelección y nepotismo electoral.
+
+.. include:: T274.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
