@@ -2340,6 +2340,15 @@ Mexicanos, en materia de reforma del Poder Judicial.
 
 .. include:: T258.rst
 
+Artículos transitorios de decretos de reforma (259)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 13, 16, 21, 32,
+55, 73, 76, 78, 82, 89, 123 y 129 de la Constitución Política de los
+Estados Unidos Mexicanos, en materia de Guardia Nacional.
+
+.. include:: T259.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
