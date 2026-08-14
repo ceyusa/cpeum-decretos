@@ -2359,6 +2359,15 @@ y Afromexicanos.
 
 .. include:: T260.rst
 
+Artículos transitorios de decretos de reforma (261)
+---------------------------------------------------
+
+DECRETO por el que se reforma el párrafo cuarto y se adiciona un párrafo
+quinto al artículo 28 de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de vías y transporte ferroviario.
+
+.. include:: T261.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
