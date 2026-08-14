@@ -1,4 +1,4 @@
-personal_ws-1.1 es 214 utf-8
+personal_ws-1.1 es 224 utf-8
 acuacultura
 aduanal
 aduanales
@@ -41,6 +41,7 @@ concesionadas
 concesionados
 concesionamiento
 concesionar
+concientizar
 confiabilidad
 constitucion
 constituída
@@ -86,6 +87,7 @@ fundamentación
 fungido
 fungir
 fungirá
+fungía
 funjan
 geotérmicos
 gradualidad
@@ -109,8 +111,11 @@ interpósita
 intersindicales
 intrapartidaria
 intraprocesales
+irrestricto
 jalisco
 jurisprudenciales
+lecto
+literacidad
 lvii
 lxii
 michoacán
@@ -118,6 +123,7 @@ microempresas
 ministraciones
 monopólicas
 morelos
+multianual
 nayarit
 normar
 normarán
@@ -134,6 +140,7 @@ permisionarios
 planeación
 planillas
 plurianuales
+plurianualidad
 pluricultural
 plurinominal
 plurinominales
@@ -164,6 +171,7 @@ refinanciar
 regularse
 regulatoria
 regulándose
+retroalimentado
 revertirse
 revillagigedo
 revocarse
@@ -178,6 +186,8 @@ sexenales
 sinaloa
 sobreseimiento
 socioeconómica
+socioeconómicas
+socioemocionales
 suplirse
 sustentabilidad
 tamaulipas
