@@ -1,4 +1,4 @@
-personal_ws-1.1 es 259 utf-8
+personal_ws-1.1 es 260 utf-8
 acuacultura
 aduanal
 aduanales
@@ -70,6 +70,7 @@ curules
 decretarse
 definitividad
 delegacional
+derechohabientes
 desempeñarse
 desincorporación
 desistimiento
