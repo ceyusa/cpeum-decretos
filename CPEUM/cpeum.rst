@@ -2301,6 +2301,15 @@ público.
 
 .. include:: T254.rst
 
+Artículos transitorios de decretos de reforma (255)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 55 y 91 de la Constitución
+Política de los Estados Unidos Mexicanos, en materia de edad mínima para
+ocupar un cargo público.
+
+.. include:: T255.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
