@@ -2177,6 +2177,15 @@ Mexicanos, en materia de Consulta Popular y Revocación de Mandato.
 
 .. include:: T240.rst
 
+Artículos transitorios de decretos de reforma (241)
+---------------------------------------------------
+
+DECRETO por el que se declara reformado el primer párrafo del artículo
+28 de la Constitución Política de los Estados Unidos Mexicanos, en
+materia de condonación de impuestos.
+
+.. include:: T241.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-

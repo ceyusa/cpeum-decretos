@@ -1,4 +1,4 @@
-personal_ws-1.1 es 227 utf-8
+personal_ws-1.1 es 228 utf-8
 acuacultura
 aduanal
 aduanales
@@ -44,6 +44,7 @@ concesionados
 concesionamiento
 concesionar
 concientizar
+condonaciones
 confiabilidad
 constitucion
 constituída
