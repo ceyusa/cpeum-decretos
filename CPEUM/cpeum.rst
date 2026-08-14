@@ -2368,6 +2368,16 @@ Mexicanos, en materia de vías y transporte ferroviario.
 
 .. include:: T261.rst
 
+Artículos transitorios de decretos de reforma (262)
+---------------------------------------------------
+
+DECRETO por el que se reforman el párrafo quinto del artículo 25, los
+párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del
+artículo 28 de la Constitución Política de los Estados Unidos Mexicanos,
+en materia de áreas y empresas estratégicas.
+
+.. include:: T262.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
