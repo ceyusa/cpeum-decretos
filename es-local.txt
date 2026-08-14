@@ -1,13 +1,16 @@
-personal_ws-1.1 es 199 utf-8
+personal_ws-1.1 es 200 utf-8
 acuacultura
 aduanal
 aduanales
 agave
 aguascalientes
 anticompetitivos
+anticorrupción
 aprehenderse
 archivarse
 asignatarios
+auditoria
+auditoría
 autodeterminación
 autopartes
 autónomamente
@@ -47,8 +50,6 @@ constituídos
 consuetudinaria
 contrafianza
 contragarantía
-contralor
-contraloría
 conurbadas
 coordinarse
 costeable
@@ -78,7 +79,6 @@ emitirse
 etnolingüísticos
 extractivas
 faltante
-fincamiento
 fundamentación
 fungido
 fungir
@@ -157,6 +157,7 @@ revertirse
 revillagigedo
 revocarse
 rigiéndose
+secrecía
 sectorizado
 secuestrarse
 sentenciarse
