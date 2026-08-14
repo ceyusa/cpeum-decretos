@@ -297,8 +297,8 @@ Capítulo IV. Del Poder Judicial
 
 .. include:: 107.rst
 
-Título Cuarto. De las responsabilidades de los servidores públicos y patrimonial del Estado.
---------------------------------------------------------------------------------------------
+Título Cuarto. De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con faltas administrativas graves o hechos de Corrupción, y Patrimonial del Estado.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 .. include:: 108.rst
 
@@ -2013,6 +2013,15 @@ Constitución Política de los Estados Unidos Mexicanos, en materia de
 disciplina financiera de las entidades federativas y los municipios.
 
 .. include:: T222.rst
+
+Artículos transitorios de decretos de reforma (223)
+---------------------------------------------------
+
+DECRETO por el que se reforman, adicionan y derogan diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de combate a la corrupción.
+
+.. include:: T223.rst
 
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
