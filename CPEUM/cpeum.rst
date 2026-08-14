@@ -314,8 +314,8 @@ Título Cuarto. De las Responsabilidades de los Servidores Públicos, Particular
 
 .. include:: 114.rst
 
-Título Quinto. De los Estados de la Federación y del Distrito Federal
----------------------------------------------------------------------
+Título Quinto. De los Estados de la Federación y de la Ciudad de México
+-----------------------------------------------------------------------
 
 .. include:: 115.rst
 
@@ -2048,6 +2048,15 @@ disposiciones de la Constitución Política de los Estados Unidos
 Mexicanos, en materia de desindexación del salario mínimo.
 
 .. include:: T226.rst
+
+Artículos transitorios de decretos de reforma (227)
+---------------------------------------------------
+
+DECRETO por el que se declaran reformadas y derogadas diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de la reforma política de la Ciudad de México.
+
+.. include:: T227.rst
 
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
