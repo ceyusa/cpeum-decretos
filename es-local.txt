@@ -1,4 +1,4 @@
-personal_ws-1.1 es 274 utf-8
+personal_ws-1.1 es 277 utf-8
 acuacultura
 aduanal
 aduanales
@@ -15,6 +15,7 @@ anticompetitivos
 anticorrupción
 aprehenderse
 archivarse
+armonizarse
 asignatarios
 auditoria
 auditoría
@@ -178,6 +179,7 @@ pluricultural
 pluriculturalidad
 plurinominal
 plurinominales
+poblacional
 politica
 ponérsele
 portación
@@ -202,6 +204,7 @@ querétaro
 rancherías
 readscriban
 readscritos
+reasignaciones
 recabarse
 recibírsele
 referencien
