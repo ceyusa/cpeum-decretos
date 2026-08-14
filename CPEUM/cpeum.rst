@@ -2546,6 +2546,16 @@ límite a las jubilaciones y pensiones de las Entidades Públicas.
 
 .. include:: T280.rst
 
+Artículos transitorios de decretos de reforma (281)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 115, fracción I, párrafo
+primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo
+134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T281.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
