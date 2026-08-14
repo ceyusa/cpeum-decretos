@@ -2094,6 +2094,16 @@ los Estados Unidos Mexicanos, en materia de Justicia Laboral.
 
 .. include:: T231.rst
 
+Artículos transitorios de decretos de reforma (232)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 16, 17 y 73 de
+la Constitución Política de los Estados Unidos Mexicanos, en materia de
+Justicia Cotidiana (Solución de Fondo del Conflicto y Competencia
+Legislativa sobre Procedimientos Civiles y Familiares).
+
+.. include:: T232.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
