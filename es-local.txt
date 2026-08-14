@@ -1,4 +1,4 @@
-personal_ws-1.1 es 230 utf-8
+personal_ws-1.1 es 232 utf-8
 acuacultura
 aduanal
 aduanales
@@ -17,6 +17,7 @@ auditoría
 autodenominación
 autodeterminación
 autopartes
+autorregulatoria
 autónomamente
 auxiliarse
 auxiliándosele
@@ -175,6 +176,7 @@ refinanciar
 regidurías
 regularse
 regulatoria
+regulatorias
 regulándose
 retroalimentado
 revertirse
