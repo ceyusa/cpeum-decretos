@@ -1,4 +1,4 @@
-personal_ws-1.1 es 260 utf-8
+personal_ws-1.1 es 263 utf-8
 acuacultura
 aduanal
 aduanales
@@ -60,6 +60,7 @@ constituídos
 consuetudinaria
 contrafianza
 contragarantía
+contraloría
 conurbadas
 conurbados
 coordinarse
@@ -121,6 +122,7 @@ insumos
 intercultural
 interculturalidad
 interinstitucional
+interinstitucionales
 interpósita
 intersindicales
 intervinientes
@@ -208,6 +210,7 @@ revillagigedo
 revocarse
 rigiéndose
 secrecía
+sectorizada
 sectorizado
 secuestrarse
 sentenciarse
