@@ -2104,6 +2104,17 @@ Legislativa sobre Procedimientos Civiles y Familiares).
 
 .. include:: T232.rst
 
+Artículos transitorios de decretos de reforma (233)
+---------------------------------------------------
+
+DECRETO por el que se reforma el artículo Décimo Sexto Transitorio del
+“Decreto por el que se reforman, adicionan y derogan diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia política-electoral”, publicado en el Diario
+Oficial de la Federación el 10 de febrero de 2014.
+
+.. include:: T233.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
