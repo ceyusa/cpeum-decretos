@@ -1,4 +1,4 @@
-personal_ws-1.1 es 239 utf-8
+personal_ws-1.1 es 249 utf-8
 acuacultura
 aduanal
 aduanales
@@ -66,6 +66,7 @@ curules
 decretarse
 definitividad
 delegacional
+desempeñarse
 desincorporación
 desistimiento
 despedírsele
@@ -92,6 +93,7 @@ fundamentación
 fungido
 fungir
 fungirá
+fungirán
 fungía
 funjan
 geotérmicos
@@ -105,6 +107,7 @@ homologarse
 hulera
 impues
 impugnarse
+inaplicar
 incapacitantes
 incluída
 incluídas
@@ -114,6 +117,7 @@ intercultural
 interinstitucional
 interpósita
 intersindicales
+intervinientes
 intrapartidaria
 intraprocesales
 irrestricto
@@ -139,6 +143,7 @@ normarán
 normatividad
 normen
 normándose
+nugatorios
 nulificada
 oaxaca
 ocampo
@@ -158,6 +163,7 @@ politica
 ponérsele
 portación
 postería
+postularse
 precampaña
 precampañas
 precandidatos
@@ -174,6 +180,7 @@ psicosexual
 querétaro
 rancherías
 readscriban
+readscritos
 recabarse
 recibírsele
 referencien
@@ -184,6 +191,7 @@ regularse
 regulatoria
 regulatorias
 regulándose
+resolutora
 retroalimentado
 revertirse
 revillagigedo
@@ -203,6 +211,8 @@ socioeconómica
 socioeconómicas
 socioemocionales
 sostenibilidad
+substanciadora
+supletoriamente
 suplirse
 sustentabilidad
 tamaulipas
