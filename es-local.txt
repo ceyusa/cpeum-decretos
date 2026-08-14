@@ -1,4 +1,4 @@
-personal_ws-1.1 es 229 utf-8
+personal_ws-1.1 es 230 utf-8
 acuacultura
 aduanal
 aduanales
@@ -193,6 +193,7 @@ sobreseimiento
 socioeconómica
 socioeconómicas
 socioemocionales
+sostenibilidad
 suplirse
 sustentabilidad
 tamaulipas
