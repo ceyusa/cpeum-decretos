@@ -1,10 +1,12 @@
-personal_ws-1.1 es 250 utf-8
+personal_ws-1.1 es 259 utf-8
 acuacultura
 aduanal
 aduanales
+afromexicana
 afromexicanas
 afromexicanos
 agave
+agroecología
 aguascalientes
 alternadamente
 anticompetitivos
@@ -14,6 +16,7 @@ archivarse
 asignatarios
 auditoria
 auditoría
+autoadscripción
 autodenominación
 autodeterminación
 autopartes
@@ -23,6 +26,7 @@ auxiliarse
 auxiliándosele
 beneficiencia
 bicameral
+bioculturalidad
 caducidad
 caracter
 cateos
@@ -114,6 +118,7 @@ incluídas
 inspeccionarse
 insumos
 intercultural
+interculturalidad
 interinstitucional
 interpósita
 intersindicales
@@ -137,6 +142,8 @@ ministraciones
 monopólicas
 morelos
 multianual
+multilingüe
+multiétnica
 nayarit
 normar
 normarán
@@ -157,6 +164,7 @@ planillas
 plurianuales
 plurianualidad
 pluricultural
+pluriculturalidad
 plurinominal
 plurinominales
 politica
@@ -167,6 +175,7 @@ postularse
 precampaña
 precampañas
 precandidatos
+precoloniales
 presupuestal
 presupuestales
 privacía
