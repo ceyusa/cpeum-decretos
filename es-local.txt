@@ -1,9 +1,10 @@
-personal_ws-1.1 es 224 utf-8
+personal_ws-1.1 es 225 utf-8
 acuacultura
 aduanal
 aduanales
 agave
 aguascalientes
+alternadamente
 anticompetitivos
 anticorrupción
 aprehenderse
@@ -23,7 +24,6 @@ caracter
 cateos
 celebrarse
 chiapas
-circunscripcionales
 coahuila
 coaligarse
 colegisladora
@@ -168,6 +168,7 @@ recibírsele
 referencien
 refinanciamiento
 refinanciar
+regidurías
 regularse
 regulatoria
 regulándose
