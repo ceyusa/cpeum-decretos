@@ -2378,6 +2378,16 @@ en materia de áreas y empresas estratégicas.
 
 .. include:: T262.rst
 
+Artículos transitorios de decretos de reforma (263)
+---------------------------------------------------
+
+DECRETO por el que se reforma el primer párrafo de la fracción II del
+artículo 107, y se adiciona un quinto párrafo al artículo 105, de la
+Constitución Política de los Estados Unidos Mexicanos, en materia de
+inimpugnabilidad de las adiciones o reformas a la Constitución Federal.
+
+.. include:: T263.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
