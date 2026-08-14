@@ -2510,6 +2510,15 @@ digitalización.
 
 .. include:: T276.rst
 
+Artículos transitorios de decretos de reforma (277)
+---------------------------------------------------
+
+DECRETO por el que se declara reformado el inciso a) de la fracción XXI
+del artículo 73 de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de extorsión.
+
+.. include:: T277.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
