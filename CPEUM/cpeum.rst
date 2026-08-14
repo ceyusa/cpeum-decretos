@@ -2388,6 +2388,17 @@ inimpugnabilidad de las adiciones o reformas a la Constitución Federal.
 
 .. include:: T263.rst
 
+Artículos transitorios de decretos de reforma (264)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 4o., 21, 41,
+73, 116, 122 y 123 de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de igualdad sustantiva, perspectiva de género,
+derecho de las mujeres a una vida libre de violencia y erradicación de
+la brecha salarial por razones de género.
+
+.. include:: T264.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
