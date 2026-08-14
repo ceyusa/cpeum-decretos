@@ -2417,6 +2417,15 @@ Mexicanos, en materia de vivienda para las personas trabajadoras.
 
 .. include:: T266.rst
 
+Artículos transitorios de decretos de reforma (267)
+----------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 3o., 4o. y 73
+de la Constitución Política de los Estados Unidos Mexicanos, en materia
+de protección y cuidado animal.
+
+.. include:: T267.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
