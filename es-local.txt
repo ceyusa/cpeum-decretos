@@ -1,4 +1,4 @@
-personal_ws-1.1 es 207 utf-8
+personal_ws-1.1 es 208 utf-8
 acuacultura
 aduanal
 aduanales
@@ -120,6 +120,7 @@ normen
 normándose
 nulificada
 oaxaca
+oralidad
 organizacionales
 paramunicipales
 patrióticamente
