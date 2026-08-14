@@ -2085,6 +2085,15 @@ Registros Civiles.
 
 .. include:: T230.rst
 
+Artículos transitorios de decretos de reforma (231)
+---------------------------------------------------
+
+DECRETO por el que se declaran reformadas y adicionadas diversas
+disposiciones de los artículos 107 y 123 de la Constitución Política de
+los Estados Unidos Mexicanos, en materia de Justicia Laboral.
+
+.. include:: T231.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
