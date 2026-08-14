@@ -2271,6 +2271,17 @@ Seguridad Privada.
 
 .. include:: T251.rst
 
+Artículos transitorios de decretos de reforma (252)
+---------------------------------------------------
+
+DECRETO por el que se reforma el Artículo Quinto Transitorio del Decreto
+por el que se reforman, adicionan y derogan diversas disposiciones de la
+Constitución Política de los Estados Unidos Mexicanos, en materia de
+Guardia Nacional, publicado en el Diario Oficial de la Federación el 26
+de marzo de 2019.
+
+.. include:: T252.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
