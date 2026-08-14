@@ -2462,6 +2462,16 @@ Estados Unidos Mexicanos, en materia de protección a la salud.
 
 .. include:: T271.rst
 
+Artículos transitorios de decretos de reforma (272)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de los
+artículos 4o. y 27 de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de conservación y protección de los maíces
+nativos.
+
+.. include:: T272.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
