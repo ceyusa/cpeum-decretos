@@ -2574,6 +2574,16 @@ reforma al Poder Judicial.
 
 .. include:: T283.rst
 
+Artículos transitorios de decretos de reforma (284)
+---------------------------------------------------
+
+DECRETO por el que se adiciona un inciso a la base VI del artículo 41 de
+la Constitución Política de los Estados Unidos Mexicanos, para
+introducir una nueva causal de nulidad de elecciones por intervención
+extranjera.
+
+.. include:: T284.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
