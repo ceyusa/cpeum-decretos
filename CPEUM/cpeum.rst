@@ -2023,6 +2023,15 @@ Mexicanos, en materia de combate a la corrupción.
 
 .. include:: T223.rst
 
+Artículos transitorios de decretos de reforma (224)
+---------------------------------------------------
+
+DECRETO por el que se reforman los párrafos cuarto y sexto del artículo
+18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T224.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
