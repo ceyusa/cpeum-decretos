@@ -1,0 +1,19 @@
+name: Set up uv environment
+description: Instala uv, sincroniza el grupo dev y dependencias de sistema adicionales
+inputs:
+  extra-apt-packages:
+    description: Paquetes apt adicionales
+    default: ''
+runs:
+  using: composite
+  steps:
+    - uses: astral-sh/setup-uv@v10.0.1
+      with:
+        enable-cache: true
+    - name: Install system dependencies
+      if: inputs.extra-apt-packages != ''
+      run: sudo apt-get install -y ${{ inputs.extra-apt-packages }}
+      shell: bash
+    - name: Sync dev environment
+      run: uv sync --locked --group dev
+      shell: bash
