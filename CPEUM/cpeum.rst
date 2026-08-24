@@ -1834,9 +1834,8 @@ artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
 Artículos transitorios de decretos de reforma (202)
 ---------------------------------------------------
 
-DECRETO por el que se adiciona el párrafo segundo de la fracción XXI
-del artículo 73 de la Constitución Política de los Estados Unidos
-Mexicanos.
+DECRETO por el que se adiciona el párrafo segundo de la fracción XXI del
+artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T202.rst
 
