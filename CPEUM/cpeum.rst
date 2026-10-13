@@ -2584,6 +2584,16 @@ extranjera.
 
 .. include:: T284.rst
 
+Artículos transitorios de decretos de reforma (285)
+---------------------------------------------------
+
+DECRETO por el que se reforman y adicionan los artículos 82, 116 y 122
+de la Constitución Política de los Estados Unidos Mexicanos, en materia
+de nacionalidad única para el ejercicio de la titularidad de los Poderes
+Ejecutivos Federal y Locales.
+
+.. include:: T285.rst
+
 Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a
 treinta y uno de enero de mil novecientos diecisiete.— Presidente: Luis
 Manuel Rojas, Diputado por el Estado de Jalisco.— Primer Vice-
