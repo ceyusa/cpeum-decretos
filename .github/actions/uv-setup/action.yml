@@ -1,5 +1,5 @@
 name: Set up uv environment
-description: Instala uv, las dependencias de sistema y sincroniza el grupo dev
+description: Instala uv, sincroniza el grupo dev y dependencias de sistema adicionales
 inputs:
   extra-apt-packages:
     description: Paquetes apt adicionales
@@ -11,7 +11,8 @@ runs:
       with:
         enable-cache: true
     - name: Install system dependencies
-      run: sudo apt-get install -y libxml2 libxslt1.1 ${{ inputs.extra-apt-packages }}
+      if: inputs.extra-apt-packages != ''
+      run: sudo apt-get install -y ${{ inputs.extra-apt-packages }}
       shell: bash
     - name: Sync dev environment
       run: uv sync --locked --group dev
